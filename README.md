@@ -3,7 +3,7 @@ A small chat app for training purpose with Socket.IO
 
 You can access the app through this link : https://malcouronne-chat-app.herokuapp.com/
 
-for dev mode, 
+For dev mode, 
 
 You should proceed as follow in command line : 
 1 - npm install               To install all dependencies
